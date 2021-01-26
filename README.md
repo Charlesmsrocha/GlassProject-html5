@@ -1,2 +1,2 @@
-# projeto-glass-html5
+# Glass-Project-html5
  Google glass website exercise
